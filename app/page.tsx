@@ -19,7 +19,7 @@ export const metadata = {
     description:
       "Create ASCII art that stumps advanced AI models. A fascinating experiment revealing the surprising gap between human and artificial intelligence.",
     type: "website",
-    url: "https://ascii-challenge.com",
+    url: "https://ascii-challenge.apertacodex.ai",
   },
   twitter: {
     card: "summary_large_image",

@@ -1,6 +1,6 @@
 # ASCII Challenge - The Simple Test That Breaks AI
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/apertacodex-dev/ascii-challenge)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://ascii-challenge.apertacodex.ai)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
@@ -23,7 +23,7 @@ ASCII art uses characters to create images - simple shapes, faces, or objects th
 
 ## Live Demo
 
-Try it yourself: **[ASCII Challenge](https://vercel.com/apertacodex-dev/ascii-challenge)**
+Try it yourself: **[ASCII Challenge](https://ascii-challenge.apertacodex.ai)**
 
 ## Why It Matters
 
