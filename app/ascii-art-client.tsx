@@ -703,15 +703,7 @@ export default function AsciiArtGenerator() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 py-6 sm:py-8">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <div className="text-sm text-muted-foreground">
-              © 2026{" "}
-              <a
-                href="https://ba.apertacodex.ai/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-primary hover:text-primary/80 font-medium transition-colors"
-              >
-                Beyond Automation
-              </a>
+              © 2026 ASCII Challenge
             </div>
             <div className="flex flex-col sm:flex-row items-center gap-4 text-sm">
               <span className="text-muted-foreground">Created by</span>
