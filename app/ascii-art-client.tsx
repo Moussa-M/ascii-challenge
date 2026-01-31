@@ -703,7 +703,7 @@ export default function AsciiArtGenerator() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 py-6 sm:py-8">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <div className="text-sm text-muted-foreground">
-              © 2025{" "}
+              © 2026{" "}
               <a
                 href="https://ba.apertacodex.ai/"
                 target="_blank"
